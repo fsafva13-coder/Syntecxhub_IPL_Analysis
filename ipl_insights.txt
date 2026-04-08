@@ -1,0 +1,50 @@
+
+IPL DATA ANALYSIS — SHORT INSIGHTS
+Generated: 2026-04-07 21:01:57
+============================================================
+
+TOP SCORERS SUMMARY
+        batter  total_runs  avg_runs  avg_sr  fifties  hundreds
+AB de Villiers       21731     40.39  100.52      148        18
+      SK Raina       21505     39.97  100.63      147        21
+      S Dhawan       21227     39.46  100.54      126        19
+      KL Rahul       20885     38.82  100.28      129        12
+     DA Warner       20521     38.14  100.20      127        17
+       V Kohli       20225     37.59  100.30      115        13
+      R Sharma       19624     36.48  100.26      121        10
+     HH Pandya       18388     34.18  100.41      110        16
+       RR Pant       18205     33.84  100.49      101        18
+      MS Dhoni       14910     27.71  100.08       44         2
+      A Nortje        2843      5.28  100.00        0         0
+      J Bumrah        2776      5.16  100.00        0         0
+
+TEAM WIN RATES
+                       team  played  won  win_rate
+        Sunrisers Hyderabad     538   77      14.3
+Royal Challengers Bangalore     538   75      13.9
+               Punjab Kings     538   71      13.2
+        Chennai Super Kings     538   64      11.9
+             Delhi Capitals     538   56      10.4
+             Mumbai Indians     538   53       9.9
+
+KEY INSIGHTS
+============================================================
+
+1. ALL-TIME TOP SCORER: AB de Villiers
+   Total runs: 21,731 across 538 innings
+   Batting average: 40.4 | Strike rate: 100.5
+
+2. HIGHEST STRIKE RATE: SK Raina
+   Average SR: 100.6 — most aggressive batter in the dataset
+
+3. BEST TEAM: Sunrisers Hyderabad
+   Win rate: 14.3% from 538 matches
+
+4. SIX-HITTING KING: AB de Villiers
+   Total sixes: 1,268
+
+5. CONSISTENCY VS AGGRESSION
+   High strike rate batters tend to have lower averages — the
+   data confirms the classic T20 trade-off between consistency
+   and boundary-hitting aggression.
+============================================================
